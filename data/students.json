@@ -1,0 +1,60 @@
+[
+    {
+      "name": "Alice",
+      "scores": [90, 85, 88],
+      "info": {
+        "guardian": {
+          "name": "Mr. Smith",
+          "contact": "09123456789"
+        }
+      }
+    },
+    {
+      "name": "Bob",
+      "scores": [70, "eighty", 75],
+      "info": {
+        "guardian": {
+          "name": "Mrs. Cruz"
+        }
+      }
+    },
+    {
+      "name": "Charlie",
+      "info": {
+        "guardian": {
+          "name": "Mr. Tan",
+          "contact": "09999999999"
+        }
+      }
+    },
+    {
+      "name": "Daisy",
+      "scores": [95, 94, 93],
+      "info": {
+        "guardian": {
+          "name": "Ms. Lopez"
+        }
+      }
+    },
+    {
+      "name": "Eli",
+      "scores": [],
+      "info": {
+        "guardian": {
+          "name": "Mr. Javier",
+          "contact": "09876543210"
+        }
+      }
+    },
+    {
+      "name": "Faith",
+      "scores": [60, 62, 64],
+      "info": {
+        "guardian": {
+          "name": "Mrs. Gomez",
+          "contact": "09111111111"
+        }
+      }
+    }
+  ]
+  
